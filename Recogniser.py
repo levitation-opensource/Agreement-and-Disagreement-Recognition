@@ -1723,7 +1723,7 @@ async def recogniser(do_open_ended_analysis = None, do_closed_ended_analysis = N
     extract_line_numbers = config["extract_line_numbers"]
 
 
-  theme = "manipulation"
+  theme = "agreedisagree"
 
 
   labels_filename = argv[3] if len(argv) > 3 else None

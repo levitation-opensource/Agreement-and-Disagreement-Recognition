@@ -1,8 +1,0 @@
-
-conversations sources:
-	* https://www.quora.com/What-does-a-typical-conversation-with-a-narcissist-look-sound-like
-	* test_input.txt : https://qr.ae/pyhVd1
-
-labels source:
-	* above conversations labelled by ChatGPT
-	* https://www.webmd.com/mental-health/signs-manipulation

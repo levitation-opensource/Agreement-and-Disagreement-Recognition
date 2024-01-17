@@ -1,0 +1,6 @@
+- Agreeing
+- Disagreeing
+# - Strongly agreeing
+# - Slightly agreeing
+# - Slightly disagreeing
+# - Strongly disagreeing
