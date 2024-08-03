@@ -2644,7 +2644,7 @@ async def recogniser(do_open_ended_analysis = None, do_closed_ended_analysis = N
     chart_type = config.get("chart_type")
 
 
-    title = "Manipulative Expression Recognition (MER)"
+    title = "Agreement and Disagreement Recognition (ADR)"
 
 
     import pygal
